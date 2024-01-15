@@ -1,0 +1,5 @@
+metric, mean, deviation
+precision, 1.0, 0.0
+recall, 0.25688073394495414, 0.0
+f1_score, 0.40875912408759124, 0.0
+accuracy, 0.25688073394495414, 0.0

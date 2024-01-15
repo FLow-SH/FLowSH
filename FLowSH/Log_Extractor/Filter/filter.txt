@@ -1,0 +1,7 @@
+How to use the Filter:
+
+**Machine with App: Debian Server HTTPS 1**
+- Log: /var/log/apache2/error.log
+
+1. Looks in the error.log the logs corresponding to the anomalous network traffic detected in the Analyser.
+2. Retrieves the logs following a datetime and a given threshold.

@@ -1,0 +1,8 @@
+How to use the Exporter:
+
+**Machine with App: Debian Server HTTPS 1**
+- Log: /var/log/apache2/error.log
+- Wireshark tool
+
+1. Make a session in the Wireshark tool and inspect the network traffic.
+2. Save the network traffic into a PCAP format and send it to the collector. 

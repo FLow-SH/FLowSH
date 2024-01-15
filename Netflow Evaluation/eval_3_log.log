@@ -1,0 +1,10 @@
+[Sat Jan 08 00:00:13.308167 2022] [Req_ID: [R: [info] [mod_socache_shmcb.c(468)] [socache_shmcb] [client [Local AH00830: Shared memory socache initialised
+[Sat Jan 08 00:00:13.308199 2022] [Req_ID: [R: [info] [ssl_engine_init.c(356)] [ssl] [client [Local AH01887: Init: Initializing (virtual) servers for SSL
+[Sat Jan 08 00:00:13.308204 2022] [Req_ID: [R: [info] [ssl_engine_init.c(1894)] [ssl] [client [Local AH01914: Configuring server 192.168.56.102:443 for SSL protocol
+[Sat Jan 08 00:00:13.308683 2022] [Req_ID: [R: [warn] [ssl_engine_init.c(1178)] [ssl] [client [Local AH01906: 192.168.56.102:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Jan 08 00:00:13.308704 2022] [Req_ID: [R: [info] [ssl_engine_init.c(1351)] [ssl] [client [Local AH02568: Certificate and private key 192.168.56.102:443:0 configured from /etc/apache2/ssl/apache.crt and /etc/apache2/ssl/apache.key
+[Sat Jan 08 00:00:13.308770 2022] [Req_ID: [R: [info] [ssl_engine_init.c(165)] [ssl] [client [Local AH01876: mod_ssl/2.4.38 compiled against Server: Apache/2.4.38, Library: OpenSSL/1.1.1d
+[Sat Jan 08 00:00:13.309559 2022] [Req_ID: [R: [notice] [prefork.c(909)] [mpm_prefork] [client [Local AH00163: Apache/2.4.38 (Debian) OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Jan 08 00:00:13.309575 2022] [Req_ID: [R: [info] [prefork.c(911)] [mpm_prefork] [client [Local AH00164: Server built: 2020-08-25T20:08:29
+[Sat Jan 08 00:00:13.309583 2022] [Req_ID: [R: [notice] [log.c(1562)] [core] [client [Local AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jan 08 00:00:13.341889 2022] [Req_ID: [R: [error] [./mod_dnssd.c(429)] [client [Local avahi_entry_group_add_service_strlst("192.168.56.102") failed: Invalid host name
